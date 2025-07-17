@@ -1,10 +1,10 @@
 ## Sou a Luciana :sparkles:
-### Apaixonada por Teconoliga e Cultura, sigo na jornada desafiadora de aprender sobre Quality Assurance e Inteligência Artificial. 
+### Apaixonada por Tecnologia e Cultura, sigo na jornada desafiadora de aprender sobre Quality Assurance e Inteligência Artificial. 
 
 <br>
 
 Dez anos de experiência em gestão e produção de projetos socioculturais me trouxeram uma base sólida em organização e estratégia.
-Hoje, como analista de Qualidade e Testes de Software, dedico-me a explorar a união e o potencial da Inteligência Artificial para contribuir com soluções inovadoras que gera m impacto sociocultural.
+Hoje, como analista de Qualidade e Testes de Software, dedico-me a explorar a união e o potencial da Inteligência Artificial para contribuir com soluções inovadoras que geram impactos socioculturais.
 
 <br>
 
