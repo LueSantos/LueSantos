@@ -36,7 +36,7 @@ Hoje, como analista de Qualidade e Testes de Software, dedico-me a explorar o un
     
 ## 🎯 **Foco nos Estudos**  :construction:
 
-:books: Quality Assunrance - Testes, documentações técnicas e automação E2E.
+:books: Quality Assunrance - Testes, acessibilidade, documentações técnicas e automação E2E.
 <br>
 :computer: Inteligência Artificial - Agentes autônomos generativos e engenharia de prompts.
 
