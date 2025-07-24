@@ -1,33 +1,46 @@
-## Sou a Luciana :sparkles:
-### Apaixonada por Tecnologia e Cultura, sigo na jornada desafiadora de aprender sobre Quality Assurance e Inteligência Artificial. 
+## Sou a Luciana :butterfly:
+#### :blue_heart: Apaixonada por Tecnologia e Cultura, sigo na jornada desafiadora de aprender sobre Quality Assurance e Inteligência Artificial. 
 
 <br>
+<br>
 
-Dez anos de experiência em tecnologia audiovisual e gestão de projetos socioculturais me trouxeram uma base sólida em organização e estratégia.
-Hoje, como analista de Qualidade e Testes de Software, dedico-me a explorar o universo técnico entre a união e o potencial da Inteligência Artificial para contribuir com soluções inovadoras que geram impactos socioculturais.
+<p align="left"> Dez anos de experiência em tecnologia audiovisual e gestão de projetos socioculturais me trouxeram uma base sólida em organização e estratégia.
+Hoje, como analista de Qualidade e Testes de Software, dedico-me a explorar o universo técnico entre a união e o potencial da Inteligência Artificial para contribuir com soluções inovadoras que geram impactos socioculturais. </p>
 
+<br>
 <br>
 
 ## **Soft Skills** 	
 
-- Comunicação
-- Trabalho em equipe
-- Liderança
-- Adaptabilidade
-- Aprendizagem contínua   
+:small_blue_diamond: Comunicação
+<br>
+:small_blue_diamond: Trabalho em equipe
+<br>
+:small_blue_diamond: Liderança
+<br>
+:small_blue_diamond: Adaptabilidade
+<br>
+:small_blue_diamond: Aprendizagem contínua   
 
 
 
-## **Hard skills** 	:construction:
+## **Hard skills** 	
 
    :mortar_board: Graduada em Tecnologia Audiovisual
+   <br>
    :computer: Técnica de IOT
+   <br>
    :computer: Residência técnica Dev. Fullstack
+   <br>
    :mortar_board: Pós-Graduação em Qualidade e Testes de Software
+
+   <br>
+   <br>
     
 ## 🎯 **Foco nos Estudos**  :construction:
 
 :books: Quality Assunrance - Testes, documentações técnicas e automação E2E.
+<br>
 :computer: Inteligência Artificial - Agentes autônomos generativos e engenharia de prompts.
 
 
