@@ -3,25 +3,33 @@
 
 <br>
 
-Dez anos de experiência em gestão e produção de projetos socioculturais me trouxeram uma base sólida em organização e estratégia.
-Hoje, como analista de Qualidade e Testes de Software, dedico-me a explorar a união e o potencial da Inteligência Artificial para contribuir com soluções inovadoras que geram impactos socioculturais.
+Dez anos de experiência em tecnologia audiovisual e gestão de projetos socioculturais me trouxeram uma base sólida em organização e estratégia.
+Hoje, como analista de Qualidade e Testes de Software, dedico-me a explorar o universo técnico entre a união e o potencial da Inteligência Artificial para contribuir com soluções inovadoras que geram impactos socioculturais.
 
 <br>
 
-## **Skills** 	:construction:
+## **Soft Skills** 	
+
+- Comunicação
+- Trabalho em equipe
+- Liderança
+- Adaptabilidade
+- Aprendizagem contínua   
 
 
 
-## **Minha Jornada em Quality Assunrance**  :construction:
+## **Hard skills** 	:construction:
 
-### 💡 **Projetos **
-<br>
-<br>
+   :mortar_board: Graduada em Tecnologia Audiovisual
+   :computer: Técnica de IOT
+   :computer: Residência técnica Dev. Fullstack
+   :mortar_board: Pós-Graduação em Qualidade e Testes de Software
+    
+## 🎯 **Foco nos Estudos**  :construction:
 
+:books: Quality Assunrance - Testes, documentações técnicas e automação E2E.
+:computer: Inteligência Artificial - Agentes autônomos generativos e engenharia de prompts.
 
-## **Minha Jornada em Inteligência Artificial**  :construction:
-
-### 💡 **Projetos **
 
 
 <!--
