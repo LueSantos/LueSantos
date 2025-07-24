@@ -1,13 +1,9 @@
 ## Sou a Luciana :butterfly:
 #### :blue_heart: Apaixonada por Tecnologia e Cultura, sigo na jornada desafiadora de aprender sobre Quality Assurance e Inteligência Artificial. 
-
-<br>
 <br>
 
 <p align="left"> Dez anos de experiência em tecnologia audiovisual e gestão de projetos socioculturais me trouxeram uma base sólida em organização e estratégia.
 Hoje, como analista de Qualidade e Testes de Software, dedico-me a explorar o universo técnico entre a união e o potencial da Inteligência Artificial para contribuir com soluções inovadoras que geram impactos socioculturais. </p>
-
-<br>
 <br>
 
 ## **Soft Skills** 	
@@ -22,7 +18,8 @@ Hoje, como analista de Qualidade e Testes de Software, dedico-me a explorar o un
 <br>
 :small_blue_diamond: Aprendizagem contínua   
 
-
+<br>
+<br>
 
 ## **Hard skills** 	
 
